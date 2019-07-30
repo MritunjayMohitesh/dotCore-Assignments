@@ -1,0 +1,14 @@
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\dotnetCoreProject.deps.json
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\dotnetCoreProject.runtimeconfig.json
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\dotnetCoreProject.runtimeconfig.dev.json
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\dotnetCoreProject.dll
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\dotnetCoreProject.pdb
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.csprojAssemblyReference.cache
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.csproj.CoreCompileInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.AssemblyInfoInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.AssemblyInfo.cs
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.csproj.CopyComplete
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.dll
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked\obj\Debug\netcoreapp2.1\dotnetCoreProject.pdb

@@ -1,0 +1,20 @@
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\bin\Debug\toBeLinked2.exe.config
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\bin\Debug\toBeLinked2.exe
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\bin\Debug\toBeLinked2.pdb
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\bin\Debug\ClassLibrary1.dll
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\bin\Debug\ClassLibrary1.pdb
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\obj\Debug\dotnetFrameworkProject.csprojAssemblyReference.cache
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\obj\Debug\dotnetFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\obj\Debug\dotnetFrameworkProject.csproj.CopyComplete
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\obj\Debug\toBeLinked2.exe
+C:\Users\mritunjay.mohitesh\source\repos\toBeLinked2\obj\Debug\toBeLinked2.pdb
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\bin\Debug\toBeLinked2.exe.config
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\bin\Debug\toBeLinked2.exe
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\bin\Debug\toBeLinked2.pdb
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\bin\Debug\ClassLibrary1.dll
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\bin\Debug\ClassLibrary1.pdb
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\obj\Debug\dotnetFrameworkProject.csprojAssemblyReference.cache
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\obj\Debug\dotnetFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\obj\Debug\dotnetFrameworkProject.csproj.CopyComplete
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\obj\Debug\toBeLinked2.exe
+C:\Users\mritunjay.mohitesh\source\repos\dotCore Assignments\dotnetFrameworkProject\obj\Debug\toBeLinked2.pdb
